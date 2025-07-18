@@ -1,4 +1,3 @@
-[![Windows](../../actions/workflows/static.yml/badge.svg)](../../actions/workflows/windows.yml) [![Ubuntu](../../actions/workflows/ubuntu.yml/badge.svg)](../../actions/workflows/ubuntu.yml) [![MacOS](../../actions/workflows/macos.yml/badge.svg)](../../actions/workflows/macos.yml)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
