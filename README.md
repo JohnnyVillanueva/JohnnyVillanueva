@@ -1,4 +1,4 @@
-<h1 align="left">Hey ðŸ‘‹ What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">âœ¨ Creating bugs since ...<br>ðŸ“š I'm currently learning ...<br>ðŸŽ¯ Goals: ...<br>ðŸŽ² Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
